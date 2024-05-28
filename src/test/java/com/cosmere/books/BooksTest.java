@@ -8,6 +8,7 @@ import java.time.Month;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import com.cosmere.entities.Books;
 import com.cosmere.enumerators.Publishers;
 
 @SpringBootTest(classes = Books.class)
